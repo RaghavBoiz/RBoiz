@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.22",
-    "port": 53800,
+    "ip": "lokalngminecraft.play.hosting",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
